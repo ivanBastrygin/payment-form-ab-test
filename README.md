@@ -1,4 +1,3 @@
-[English](README.md) | **Русский**
 
 # A/B-тест интерфейса BitMotion
 
