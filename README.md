@@ -13,7 +13,7 @@
 
 ```text
 .
-├── ab_test_analysis_four_step_funnel_text_updated.ipynb
+├── ab_test_analysis.ipynb
 ├── dannye.xlsx
 ├── README.md
 └── assets/
